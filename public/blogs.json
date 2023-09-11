@@ -1,0 +1,58 @@
+[
+    {
+        "Id": 1,
+        "cover": "https://i.ibb.co/8BHT5mz/1.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Mr. Raju",
+        "author_Img": "https://i.ibb.co/QMTZjgn/boy1.png",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 5,
+        "hashtags": [
+            "programming",
+            "coding",
+            "technology"
+        ]
+    },
+    {
+        "Id": 2,
+        "cover": "https://i.ibb.co/WH8RSk9/2.png",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Jane Smith",
+        "author_Img": "https://i.ibb.co/c1FXD3c/boy2.jpg",
+        "posted_date": "2023-09-11",
+        "reading_time": 10,
+        "hashtags": [
+            "space",
+            "astronomy",
+            "science"
+        ]
+    },
+    {
+        "Id": 3,
+        "cover": "https://i.ibb.co/2gVbrMw/3.png",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Mrs. Setara",
+        "author_Img": "https://i.ibb.co/WW53rbW/girl1.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 10,
+        "hashtags": [
+            "health",
+            "nutrition",
+            "lifestyle"
+        ]
+    },
+    {
+        "Id": 4,
+        "cover": "https://i.ibb.co/Bc2wC63/4.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Mina Mostofa",
+        "author_Img": "https://i.ibb.co/z74s2p1/girl2.jpg",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 12,
+        "hashtags": [
+            "travel",
+            "budgettravel",
+            "adventure"
+        ]
+    }
+]
